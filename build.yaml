@@ -1,4 +1,4 @@
 ---
 include:
-  - board: nice_nano_v2
+  - board: promicro_nrf52840/nrf52840
     shield: my_3x3
