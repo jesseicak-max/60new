@@ -1,2 +1,0 @@
-config SHIELD_MY_3X3
-	bool "my_3x3 shield"
